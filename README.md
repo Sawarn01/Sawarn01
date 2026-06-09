@@ -40,6 +40,6 @@ My main tech stack is **React, Next.js, and TypeScript**. I love crafting clean 
 ### 📬 Let's Connect
 
 - 🌐 [Email Me](mailto:mailmeonsashwats@gmail.com)
-- 📖 [Portfolio](https:www.sashwatsawarn.online)
+- 📖 [Portfolio](https://www.sashwatsawarn.online)
 
 ---
